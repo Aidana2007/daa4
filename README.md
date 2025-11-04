@@ -1,7 +1,7 @@
-Overview
+## Overview ##
 This project implements graph algorithms for smart city task scheduling, including Strongly Connected Components detection, Topological Sorting, and Shortest/Longest Path finding in Directed Acyclic Graphs.
 
-Features
+## Features ##
 Strongly Connected Components using Tarjan's algorithm
 
 Condensation Graph construction from SCCs
@@ -14,7 +14,7 @@ Critical Path analysis for task scheduling
 
 Performance Metrics tracking for algorithm analysis
 
-Algorithms Implemented
+## Algorithms Implemented ##
 Tarjan's SCC Algorithm: O(V + E) time complexity
 
 Kahn's Topological Sort: O(V + E) time complexity
